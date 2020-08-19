@@ -1,9 +1,8 @@
 # **Product-Insert-Module App**
 
-Install Expo CLI with npm i -g expo-cli
-Install Node dependencies with npm i
-Run the app with npm start
-In order to understand how to build and publish the app (and the difference between the two), you will need to read on...
+- Install Expo CLI with npm i -g expo-cli
+- Install Node dependencies with npm i
+- Run the app with npm start
 
 ## **Dependencies**
 
